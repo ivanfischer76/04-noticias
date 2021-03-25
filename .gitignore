@@ -13,6 +13,8 @@ Thumbs.db
 UserInterfaceState.xcuserstate
 $RECYCLE.BIN/
 
+apikey-news.txt
+
 *.log
 log.txt
 npm-debug.log*
